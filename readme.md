@@ -16,30 +16,33 @@ Here are some suggestions...or you can add your own!
 **Languages**
 
 - [ ] ES6 Topic
-- [x] [Python - Micah](https://github.com/micahwierenga/python-practice) - 2
+- [ ] Python
 - [ ] Clojure
-- [ ] Go
-- [x] Swift - Nate - Computer Issues
-- [x] [C++](https://github.com/merryschurr/lightning-talk.git) - [Merry](https://docs.google.com/presentation/d/1orECk51G7j1mYZsm1X4P8glMVos2tnQe-MPAy9CvFt4/edit?usp=sharing) - 8
+- [x] [Go - Jess](https://github.com/jessHwood/Google-Go/blob/master/README.md)
+- [ ] Swift
+- [ ] C++
 - [ ] Scala
 - [ ] Elixir
 - [ ] Java
 - [ ] Coffeescript
 - [ ] CSS Advanced Topics
-- [x] [Sass - Larry](https://github.com/larrykraus/lightning-talk) - 5
+- [ ] Sass - Larry
 
 **Client-side Frameworks**
 
 - [ ] Meteor
-- [ ] Ember
+- [x] [Ember - Alexi](https://github.com/alexi-o/lightening-talk/blob/master/README.md)
 - [ ] Backbone
 - [ ] Elm
-- [ ] React Native
+- [x] [Vue - Cole](https://github.com/CoolCode2/Vue-Js-Intro)
+- [x] [React Native - Tyler](https://github.com/shockeyt/reactNativeGuide/blob/master/README.md)
+- [x] [React Native and Firebase - Bobby](https://github.com/bobbyschank/lightning-talk)
 
 **Server-side Frameworks**
 
 - [ ] Hapi.js
 - [ ] Phoenix
+- [x] [Ruby on Rails - Nate](https://github.com/ntutchton/rubydemo) / [Presentation](https://docs.google.com/presentation/d/1nqq-ZgK89_RVSRUmPhtBlrB-Iz9xySU6zRA4BOxlYI0/edit?usp=sharing)
 
 **IoT Frameworks**
 
@@ -47,7 +50,10 @@ Here are some suggestions...or you can add your own!
 
 **UI Elements and Tools**
 
-- [x] [Canvas API - Kevin](https://github.com/kevinbloomquist/Canvas-Lightningtalk) - 3
+- [x] [Sketch (Files) - Jacy](https://github.com/JacyAnderson/sketch-json-test)
+- [x] [Google Materialize - Cam](https://github.com/CamB17/GoogleMaterializeTalk)
+- [x] [Sassy Animations - Billy](https://github.com/Bp3289/CSS-Animation)
+- [ ] Canvas API
 - [ ] WebRTC
 - [ ] Phaser
 - [ ] Three.js
@@ -81,12 +87,14 @@ Here are some suggestions...or you can add your own!
 
 - [ ] Xcode
 - [ ] PGP
-- [x] [BitTorrent - Guy](https://github.com/gliechty/bitTorrent) - 1
+- [ ] BitTorrent
 - [ ] Distributed Applications
 - [ ] Microcontrollers / Internet of Things
-- [x] [Machine Learning - Clay](https://github.com/git-clay/Machine_Learning_101/blob/master/README.md) - 7
-- [ ] Chat Bots
-- [x] [OAuth - Brian](https://github.com/briandridge/oauth) - 4
+- [ ] Machine Learning
+- [x] [Twitter Bots](https://github.com/Alexandroidd/TwitterBot)
+- [ ] OAuth
 - [ ] Oracle SQL Developer
-- [x] [Chrome Extensions - Gisella](https://github.com/GisellaBella/lightening-taks-chrome-extension/tree/master) - 6
+- [ ] Chrome Extensions
+- [x] [Clarifai / Image Recognition - Taylor](https://github.com/tlaine1441/clarifai_lightning_talk)
+- [x] [Progressive Web Apps and Service Workers - Troy](https://github.com/trevans24/lightning-talk)
 - [ ] etc... (suggest a topic of your own & have it approved)
